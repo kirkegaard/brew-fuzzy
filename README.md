@@ -2,6 +2,8 @@
 
 Fast TUI for fuzzy finding and installing Homebrew packages.
 
+![Screenshot](screenshot.png)
+
 ## Usage
 
 ```bash
